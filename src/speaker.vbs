@@ -1,7 +1,7 @@
 Dim sapi
 
 message="Zaczynamy INBE!"
-message2="Jo zef tar ka ju zef"
+message2="ju. zef. tar. K."
 
 Set sapi = CreateObject("sapi.spvoice")
 
